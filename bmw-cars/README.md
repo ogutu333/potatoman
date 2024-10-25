@@ -1,7 +1,3 @@
-# :computer: Practice Projects.
-## Coverage.
-1. BMW Cars Website.
-
 ## :wrench: Project Setup.
 # HTML:
 
